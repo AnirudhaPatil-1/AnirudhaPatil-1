@@ -88,4 +88,9 @@
 
 <br>
 
+<p align="center"> 
+  Views<br>
+  <img src="https://profile-counter.glitch.me/AnirudhaPatil-1/count.svg">
+</p>
+
 <!-- ![](https://hit.yhype.me/github/profile?user_id=50300882) -->
