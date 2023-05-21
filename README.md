@@ -4,8 +4,6 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=0000&color=FFD700&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Developer;JavaScript+Developer" alt="Typing SVG" /></a>
     </div>
 
-<br>
-
 - 🔭 I’m currently working on **Food delivery web app**
 
 - 🌱 I’m currently learning **TypeScript, React.**
@@ -20,9 +18,7 @@
 
 - 💎 If you are a Tecky let's get connected
 <!-- image -->
-    
-<br>
-    
+ 
 ## <!-- <div width="100%"> <div width="100%"> <img src="https://avatars.githubusercontent.com/u/73242321?v=4"></div></div> -->
 ## Tech Stack
 <table align="center">
@@ -62,8 +58,6 @@
 </tr> -->
 </table>
 
-<br>
-
 ## Contact Me
 <br>
 <p align="center">
@@ -71,9 +65,7 @@
   <a href="mailto:anirudha.patil.dev@gmail.com"><img src="https://img.shields.io/badge/-anirudh.patil.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/anirudhapatil321/"><img src="https://img.shields.io/badge/-@anirudhapatil321-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
-    
-<br>
-    
+   
 ## Stats
 <table>
   <tr>
@@ -88,14 +80,10 @@
   </tr>
 </table>
 
-<br>
-
 ## 🐛Github Magic Game
 <p align="center">
   <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
-
-<br>
 
 <div align="center"> 
   <h2>Views</h2>
