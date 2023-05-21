@@ -1,7 +1,7 @@
 <body>
     <div align="center">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=10000&color=FFD700&background=FFFFF600&center=true&vCenter=true&width=1000&height=80&lines=Hi+there%2C+I'm+Anirudha+Patil+" alt="Typing SVG" /></a>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=500&color=FFD700&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Developer;JavaScript+Developer" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=0000&color=FFD700&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Developer;JavaScript+Developer" alt="Typing SVG" /></a>
     </div>
     
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anirudha.patil.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sgqqcKpADGGthKHEB9LqqinYxVeJHKR9/view?usp=share_link](https://drive.google.com/file/d/1sgqqcKpADGGthKHEB9LqqinYxVeJHKR9/view?usp=share_link)
+- 📄 My Resume: [https://drive.google.com/file/d/1sgqqcKpADGGthKHEB9LqqinYxVeJHKR9/view?usp=share_link](https://drive.google.com/file/d/1sgqqcKpADGGthKHEB9LqqinYxVeJHKR9/view?usp=share_link)
 
 - 💎 If you are a Tecky let's get connected
 
