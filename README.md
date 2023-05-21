@@ -19,12 +19,12 @@
 - 📄 My Resume: [https://drive.google.com/file/d/1sgqqcKpADGGthKHEB9LqqinYxVeJHKR9/view?usp=share_link](https://drive.google.com/file/d/1sgqqcKpADGGthKHEB9LqqinYxVeJHKR9/view?usp=share_link)
 
 - 💎 If you are a Tecky let's get connected
------------
 <!-- image -->
-
+    
+<br>
+    
 ## <!-- <div width="100%"> <div width="100%"> <img src="https://avatars.githubusercontent.com/u/73242321?v=4"></div></div> -->
 ## Tech Stack
-
 <table align="center">
 <tr>
 <td align='center' width="100">
@@ -64,7 +64,6 @@
 
 <br>
 
------------
 ## Contact Me
 <br>
 <p align="center">
@@ -72,11 +71,10 @@
   <a href="mailto:anirudha.patil.dev@gmail.com"><img src="https://img.shields.io/badge/-anirudh.patil.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/anirudhapatil321/"><img src="https://img.shields.io/badge/-@anirudhapatil321-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
+    
 <br>
-
----------------
+    
 ## Stats
-
 <table>
   <tr>
     <th>Stats</th>
@@ -92,8 +90,6 @@
 
 <br>
 
------------
-
 ## 🐛Github Magic Game
 <p align="center">
   <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake">
@@ -101,19 +97,14 @@
 
 <br>
 
---------------
-
 <div align="center"> 
   <h2>Views</h2>
   <img src="https://profile-counter.glitch.me/AnirudhaPatil-1/count.svg">
 </div>
-
 <!-- ![](https://hit.yhype.me/github/profile?user_id=50300882) -->
 
 <br>
 
------------------
-<br>
 <p align="center">
  Made with  <span> &hearts; </span>  by Anirudha
 </p>
