@@ -4,6 +4,7 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=0000&color=FFD700&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Developer;JavaScript+Developer" alt="Typing SVG" /></a>
     </div>
 
+<br>
 
 - 🔭 I’m currently working on **Food delivery web app**
 
@@ -18,14 +19,13 @@
 - 📄 My Resume: [https://drive.google.com/file/d/1sgqqcKpADGGthKHEB9LqqinYxVeJHKR9/view?usp=share_link](https://drive.google.com/file/d/1sgqqcKpADGGthKHEB9LqqinYxVeJHKR9/view?usp=share_link)
 
 - 💎 If you are a Tecky let's get connected
-
+-----------
 <!-- image -->
 
 ## <!-- <div width="100%"> <div width="100%"> <img src="https://avatars.githubusercontent.com/u/73242321?v=4"></div></div> -->
+## Tech Stack
 
-<h2>Tech Stack</h2>
-
-<table>
+<table align="center">
 <tr>
 <td align='center' width="100">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain-wordmark.svg" width="100">
@@ -62,11 +62,21 @@
 </tr> -->
 </table>
 
+<br>
+
+-----------
+## Contact Me
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/anirudha-patil-2a786b218/"><img src="https://img.shields.io/badge/-Anirudha%20Patil-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:anirudha.patil.dev@gmail.com"><img src="https://img.shields.io/badge/-anirudh.patil.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/anirudhapatil321/"><img src="https://img.shields.io/badge/-@anirudhapatil321-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
+<br>
+
+---------------
+## Stats
+
 <table>
   <tr>
     <th>Stats</th>
@@ -80,17 +90,22 @@
   </tr>
 </table>
 
-## 🐛Github Magic Game
+<br>
 
+-----------
+
+## 🐛Github Magic Game
 <p align="center">
   <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 <br>
 
-<p align="center"> 
-  Views<br>
+--------------
+
+<div align="center"> 
+  <h2>Views</h2>
   <img src="https://profile-counter.glitch.me/AnirudhaPatil-1/count.svg">
-</p>
+</div>
 
 <!-- ![](https://hit.yhype.me/github/profile?user_id=50300882) -->
