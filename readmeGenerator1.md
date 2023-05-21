@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anrirudha Patil</h1>
+<h1 align="center">Hi 👋, I'm Anirudha Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Food delivery web app**
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anirudha.patil.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sgqqcKpADGGthKHEB9LqqinYxVeJHKR9/view?usp=share_link](https://drive.google.com/file/d/1sgqqcKpADGGthKHEB9LqqinYxVeJHKR9/view?usp=share_link)
+- 📄 Resume: [https://drive.google.com/file/d/1sgqqcKpADGGthKHEB9LqqinYxVeJHKR9/view?usp=share_link](https://drive.google.com/file/d/1sgqqcKpADGGthKHEB9LqqinYxVeJHKR9/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
