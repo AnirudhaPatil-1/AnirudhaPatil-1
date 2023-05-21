@@ -74,9 +74,11 @@
 </tr>
 </table>
 <p align="center">
-  <a href="https://www.linkedin.com/in/anirudha-patil-2a786b218/"><img src="https://img.shields.io/badge/-Saad%20Fareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:anirudha.patil.dev@gmail.com"><img src="https://img.shields.io/badge/-saadfareed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/anirudhapatil321/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anirudha-patil-2a786b218/"><img src="https://img.shields.io/badge/Anirudha Patil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:anirudha.patil.dev@gmail.com"><img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+"/></a>
+  <a href="https://www.instagram.com/anirudhapatil321/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+"/></a>
   <!-- <a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a> -->
 </p>
 
@@ -87,7 +89,7 @@
     <th>Languages</th>
   </tr>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnirudhaPatil-1=gruvbox"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnirudhaPatil-1&theme=gruvbox"/></td>
     <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=AnirudhaPatil-1&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnirudhaPatil-1&theme=gruvbox"/></td>
   </tr>
