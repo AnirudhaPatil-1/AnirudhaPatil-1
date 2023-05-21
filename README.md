@@ -1,41 +1,44 @@
 <body>
     <div align="center">
-        <h1 style="color: #F7CC18FF;">Hi there, I'm Anirudha Patil👋<a href="#"></a></h1>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=10000&color=FFD700&background=FFFFF600&center=true&vCenter=true&width=1000&height=80&lines=Hi+there%2C+I'm+Anirudha+Patil+" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=500&color=FFD700&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Developer;JavaScript+Developer" alt="Typing SVG" /></a>
     </div>
-    <p align="center">
-        <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+;React+Developer;MERN+Stack+Developer" alt="Typing SVG" />
-        </a>
-    </p>
+    
 
-  <h2>I'm a Frontend Developer!</h2>
-  <ul>
-    <!-- <li>🔭 I’m currently working as a Frontend Engineer.</li> -->
-    <li>🌱 I’m currently expanding my knowledge in MERN Stack.</li>
-    <li>👯 I am presently looking for a job.</li>
-    <li>🥅 2023-24 Goals: Gain mastery over MERN stack and contribute in an organization.</li>
-    <li>💎 If you are a Tecky let's get connected</li>
-  </ul>
+  - 🔭 I’m currently working on **Food delivery web app**
 
-<div width="100%"> <div width="100%"> <img src=https://drive.google.com/file/d/1O2SrHsYobhkH_EOJRVkOWSdtoC4_WnIc/view?usp=share_link> </div> </div>
+- 🌱 I’m currently learning **TypeScript, React.**
 
+- 📝 I regularly write articles on [https://atomicjuggernaut.hashnode.dev/](https://atomicjuggernaut.hashnode.dev/)
+
+- 💬 Ask me about **JavaScript, React**
+
+- 📫 How to reach me **anirudha.patil.dev@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sgqqcKpADGGthKHEB9LqqinYxVeJHKR9/view?usp=share_link](https://drive.google.com/file/d/1sgqqcKpADGGthKHEB9LqqinYxVeJHKR9/view?usp=share_link)
+
+- 💎 If you are a Tecky let's get connected
+
+<!-- image -->
+<!-- <div width="100%"> <div width="100%"> <img src="https://avatars.githubusercontent.com/u/73242321?v=4"></div></div> -->
+-----
 <h2>Tech Stack</h2>
 
 <table>
 <tr>
-<td align='center'>
+<td align='center' width="100">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain-wordmark.svg" width="100">
 </td>
-<td align='center'>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" width="70">
+<td align='center' width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" width="100">
 </td>
-<td align='center'>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" width="80">
+<td align='center' width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" width="100">
 </td>
-<td align='center' width="200">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" width="90">
+<td align='center' width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" width="100">
 </td>
-<td align='center'>
+<td align='center' width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" width= 100>
 </td>
 </tr>
