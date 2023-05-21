@@ -59,12 +59,10 @@
 </table>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anirudha-patil-2a786b218/"><img src="https://img.shields.io/badge/Anirudha Patil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:anirudha.patil.dev@gmail.com"><img src="https://img.shields.io/badge/anirudha.patil.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white
-"/></a>
+  <a href="https://www.linkedin.com/in/anirudha-patil-2a786b218/"><img src="https://img.shields.io/badge/Anirudha-Patil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:anirudha.patil.dev@gmail.com"><img src="https://img.shields.io/badge/anirudha.patil.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/anirudhapatil321/"><img src="https://img.shields.io/badge/anirudhapatil321-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 "/></a>
-  <!-- <a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a> -->
 </p>
 <table>
   <tr>
