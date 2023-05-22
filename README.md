@@ -4,8 +4,6 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=0000&color=FFD700&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Developer;JavaScript+Developer" alt="Typing SVG" /></a>
     </div>
 
--------------------
-
 - 🔭 I’m currently working on **Food delivery web app**
 
 - 🌱 I’m currently learning **TypeScript, React.**
@@ -25,22 +23,19 @@
 
 <h2 align="left">Connect with me:</h2>
 
- -----
 <p align="left">
 <a href="https://linkedin.com/in/anirudha-patil-2a786b218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudha-patil-2a786b218/" height="30" width="40" /></a>
+<a href=" https://wa.me/917350364321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
 <a href="https://fb.com/anirudha.patil.505960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anirudha.patil.505960" height="30" width="40" /></a>
 <a href="https://instagram.com/anirudhapatil321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anirudhapatil321" height="30" width="40" /></a>
 <a href="https://hashnode.com/@anirudhapatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@anirudhapatil" height="30" width="40" /></a>
 <!-- updating hashnode logo to latest -->
 <!-- <a href="https://hashnode.com/@anirudhapatil" target="blank"><img align="center" src="https://www.svgrepo.com/svg/353859/hashnode-icon" alt="@anirudhapatil" height="30" width="40" /></a> -->
-
-<a href=" https://wa.me/917350364321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aninp2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aninp2020" height="30" width="40" /></a>
 </p>
 
 
 ## Tech Stack
--------------------
 <table align="center">
 <tr>
 <td align='center' width="100">
@@ -90,7 +85,6 @@
 
 --------------- -->
 ## Stats
--------------------
 <table>
   <tr>
     <th>Stats</th>
@@ -105,23 +99,18 @@
 </table>
 
 ## 🐛Github Magic Game
--------------------
 <p align="center">
   <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 
 ## Views
--------------------
-
 <div align="center"> 
   <img  src="https://profile-counter.glitch.me/AnirudhaPatil-1/count.svg">
 </div>
 <!-- ![](https://hit.yhype.me/github/profile?user_id=50300882) -->
 
 <br>
-
--------------------
 
 <h3 align="center">
  Made with  <span> &hearts; </span>  by Anirudha
