@@ -53,6 +53,9 @@
 <td align='center' width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" width= 100>
 </td>
+<td align='center' width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" width= 100>
+</td>
 </tr>
 <!-- <tr>
 <td align='center' width="200">
