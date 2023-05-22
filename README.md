@@ -23,6 +23,23 @@
 <!-- image -->
 
 ## <!-- <div width="100%"> <div width="100%"> <img src="https://avatars.githubusercontent.com/u/73242321?v=4"></div></div> -->
+
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://linkedin.com/in/anirudha-patil-2a786b218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudha-patil-2a786b218/" height="30" width="40" /></a>
+<a href="https://fb.com/anirudha.patil.505960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anirudha.patil.505960" height="30" width="40" /></a>
+<a href="https://instagram.com/anirudhapatil321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anirudhapatil321" height="30" width="40" /></a>
+<a href="https://hashnode.com/@anirudhapatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@anirudhapatil" height="30" width="40" /></a>
+<!-- updating hashnode logo to latest -->
+<!-- <a href="https://hashnode.com/@anirudhapatil" target="blank"><img align="center" src="https://www.svgrepo.com/svg/353859/hashnode-icon" alt="@anirudhapatil" height="30" width="40" /></a> -->
+
+<a href=" https://wa.me/917350364321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aninp2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aninp2020" height="30" width="40" /></a>
+</p>
+
+<br>
+
+-------------------
 ## Tech Stack
 
 <table align="center">
@@ -62,16 +79,16 @@
 </tr> -->
 </table>
 
-<br>
+<!-- <br>
 
------------
-## Contact Me
+----------- -->
+<!-- ## Contact Me
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/anirudha-patil-2a786b218/"><img src="https://img.shields.io/badge/-Anirudha%20Patil-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:anirudha.patil.dev@gmail.com"><img src="https://img.shields.io/badge/-anirudh.patil.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/anirudhapatil321/"><img src="https://img.shields.io/badge/-@anirudhapatil321-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
+</p> -->
 <br>
 
 ---------------
