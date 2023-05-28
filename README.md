@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **JavaScript, React**
 
-- 📫 How to reach me **anirudha.patil.dev@gmail.com**
+- 📫 How to reach me **anirudha.patil.dev@gmail.com** , **+91-7350364321**
 
 - 📄 My Resume: [https://drive.google.com/file/d/1sgqqcKpADGGthKHEB9LqqinYxVeJHKR9/view?usp=share_link](https://drive.google.com/file/d/1sgqqcKpADGGthKHEB9LqqinYxVeJHKR9/view?usp=share_link)
 
@@ -25,7 +25,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/anirudha-patil-2a786b218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudha-patil-2a786b218/" height="30" width="40" /></a>
-<a href=" https://wa.me/917350364321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
+<a href="https://wa.me/917350364321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/whatsapp.svg" alt="+91-7350364321" height="30" width="40" /></a>
 <a href="https://fb.com/anirudha.patil.505960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anirudha.patil.505960" height="30" width="40" /></a>
 <a href="https://instagram.com/anirudhapatil321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anirudhapatil321" height="30" width="40" /></a>
 <a href="https://hashnode.com/@anirudhapatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@anirudhapatil" height="30" width="40" /></a>
