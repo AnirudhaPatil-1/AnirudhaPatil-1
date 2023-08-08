@@ -26,6 +26,7 @@
   <a href="https://hashnode.com/@anirudhapatil" target="_blank"><img src="icons8-hashnode-48.png" alt="Hashnode" height="35" width="35" /></a>
 <!--     <a href="mailto:anirudha.patil.dev@gmail.com"><img src="./icons8-gmail-94.png" alt="Email" height="40" width="40"  /></a> -->
 </p>
+
 <p align="left">
   <a href="mailto:anirudha.patil.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-anirudha.patil.dev%40gmail.com-blue" alt="Email" />
@@ -33,6 +34,9 @@
   <a href="tel:+917350364321">
     <img src="https://img.shields.io/badge/Phone-7350364321-green" alt="Phone" />
   </a>
+  <a href="https://drive.google.com/file/d/1sgqqcKpADGGthKHEB9LqqinYxVeJHKR9/view?usp=share_link" >
+    <img src="https://img.shields.io/badge/Resume-PDF-red" alt="Resume"/>
+  </a>  
 </p>
 
 <!-- <a href="https://hashnode.com/@anirudhapatil" target="blank"><img align="center" src="https://www.svgrepo.com/svg/353859/hashnode-icon" alt="@anirudhapatil" height="30" width="40" /></a> -->
@@ -43,34 +47,39 @@
 ## Tech Stack
 <table align="center">
 <tr>
-<td align='center' width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain-wordmark.svg" width="100">
-</td>
-<td align='center' width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" width="100">
-</td>
-<td align='center' width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" width="100">
-</td>
-<td align='center' width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" width="100">
-</td>
-<td align='center' width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" width= 100>
-</td>
-<td align='center' width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" width= 100>
-</td>
-<td align='center' width="100">
-<!--     <img src="icons8-tailwindcss-48.png" width= 100> -->    
-<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />       -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-          
-</td>
-<td align='center' width="100">
-<!--     <img src="icons8-redux-48.png" width= 100> -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />        
-</td>
+    <td align='center' width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" width="100">
+    </td>
+    <td align='center' width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" width="100">
+    </td>
+    <td align='center' width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" width="100">
+    </td>
+    <td align='center' width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />     
+    </td>
+    <td align='center' width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" width= 100>
+    </td>
+    <td align='center' width="100">
+    <!--     <img src="icons8-tailwindcss-48.png" width= 100> -->    
+    <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />       -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />        
+    </td>
+    <td align='center' width="100">
+    <!--     <img src="icons8-redux-48.png" width= 100> -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />        
+    </td>
+    <td align='center' width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" width= 100>
+    </td>
+    <td align='center' width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain-wordmark.svg" width="100">
+    </td>
+    <td align='center' width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+    </td>
 </tr>
 
 <!-- <tr>
