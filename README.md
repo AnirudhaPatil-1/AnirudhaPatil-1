@@ -22,7 +22,8 @@
   <a href="https://wa.me/917350364321" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
   <a href="https://fb.com/anirudha.patil.505960" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://instagram.com/anirudhapatil321" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://hashnode.com/@anirudhapatil" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="40" /></a>
+<!--   <a href="https://hashnode.com/@anirudhapatil" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="40" /></a> -->
+  <a href="https://hashnode.com/@anirudhapatil" target="_blank"><img src="icons8-hashnode-48.png" alt="Hashnode" height="35" width="35" /></a>
 <!--     <a href="mailto:anirudha.patil.dev@gmail.com"><img src="./icons8-gmail-94.png" alt="Email" height="40" width="40"  /></a> -->
 </p>
 <p align="left">
@@ -59,6 +60,12 @@
 </td>
 <td align='center' width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" width= 100>
+</td>
+<td align='center' width="100">
+    <img src="" width= 100>
+</td>
+<td align='center' width="100">
+    <img src="" width= 100>
 </td>
 </tr>
 <!-- <tr>
