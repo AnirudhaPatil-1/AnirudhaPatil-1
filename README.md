@@ -7,21 +7,13 @@
 
 🚀 **I am actively looking for job opportunities in Frontend Development.**
 
-🔭 I’m currently working on **Frontend Projects**.
+🔭 Working on **Frontend Projects**.
 
-🌱 I’m currently learning **React, Redux, TailwindCSS**.
+🌱 Learning **React, Redux, TailwindCSS**.
 
-📝 I regularly write articles on [![Hashnode](https://img.shields.io/badge/Hashnode-Articles-brightgreen)](https://atomicjuggernaut.hashnode.dev/).
-
-💬 Ask me about **JavaScript, React**.
-
-📫 How to reach me:
-- Email: anirudha.patil.dev@gmail.com
-- Phone: +91-7350364321.
+📝 I regularly write articles on [![Hashnode](https://img.shields.io/badge/Hashnode-Articles-brightgreen)](https://atomicjuggernaut.hashnode.dev/)
 
 📄 My Resume: [![Resume](https://img.shields.io/badge/Resume-PDF-red)](https://drive.google.com/file/d/1sgqqcKpADGGthKHEB9LqqinYxVeJHKR9/view?usp=share_link)
-<a href="mailto:anirudha.patil.dev@gmail.com"><img src="https://img.shields.io/badge/Email-anirudha.patil.dev%40gmail.com-blue" alt="Email"  /></a>
-  <a href="tel:+917350364321"><img src="https://img.shields.io/badge/Phone-7350364321-green" alt="Phone" h /></a>
 
 ## 🤝 Connect with me and let's discuss how I can contribute to your team!
 
@@ -31,15 +23,16 @@
   <a href="https://fb.com/anirudha.patil.505960" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://instagram.com/anirudhapatil321" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://hashnode.com/@anirudhapatil" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="40" /></a>
-    <a href="mailto:anirudha.patil.dev@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email" height="30" width="30" /></a>
-  <a href="tel:+917350364321"><img src="https://imageurl_for_phone.png" alt="Phone" height="30" width="30" /></a>
-
+<!--     <a href="mailto:anirudha.patil.dev@gmail.com"><img src="./icons8-gmail-94.png" alt="Email" height="40" width="40"  /></a> -->
 </p>
-
-> "Write code, inspire, repeat."
-
-    
-
+<p align="left">
+  <a href="mailto:anirudha.patil.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anirudha.patil.dev%40gmail.com-blue" alt="Email" />
+  </a>
+  <a href="tel:+917350364321">
+    <img src="https://img.shields.io/badge/Phone-7350364321-green" alt="Phone" />
+  </a>
+</p>
 
 <!-- <a href="https://hashnode.com/@anirudhapatil" target="blank"><img align="center" src="https://www.svgrepo.com/svg/353859/hashnode-icon" alt="@anirudhapatil" height="30" width="40" /></a> -->
 <!-- <a href="https://auth.geeksforgeeks.org/user/aninp2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aninp2020" height="30" width="40" /></a> -->
