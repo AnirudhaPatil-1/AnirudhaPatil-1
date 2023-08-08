@@ -3,43 +3,44 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=10000&color=FFD700&background=FFFFF600&center=true&vCenter=true&width=1000&height=80&lines=Hi+there%2C+I'm+Anirudha+Patil+" alt="Typing SVG" /></a>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=0000&color=FFD700&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Developer;JavaScript+Developer" alt="Typing SVG" /></a>
     </div>
-    
-🚀 **I am actively looking for job opportunities in Frontend Development.**
 
-🤝 **Connect with me and let's discuss how I can contribute to your team!**
+
+🚀 **I am actively looking for job opportunities in Frontend Development.**
 
 🔭 I’m currently working on **Frontend Projects**.
 
 🌱 I’m currently learning **React, Redux, TailwindCSS**.
 
-📝 I regularly write articles on [https://atomicjuggernaut.hashnode.dev/](https://atomicjuggernaut.hashnode.dev/).
+📝 I regularly write articles on [![Hashnode](https://img.shields.io/badge/Hashnode-Articles-brightgreen)](https://atomicjuggernaut.hashnode.dev/).
 
 💬 Ask me about **JavaScript, React**.
 
-📫 How to reach me: 
+📫 How to reach me:
 - Email: anirudha.patil.dev@gmail.com
 - Phone: +91-7350364321.
 
-📝 I regularly write articles on [![Hashnode](https://img.shields.io/badge/Hashnode-Articles-brightgreen)](https://atomicjuggernaut.hashnode.dev/)
-
 📄 My Resume: [![Resume](https://img.shields.io/badge/Resume-PDF-red)](https://drive.google.com/file/d/1sgqqcKpADGGthKHEB9LqqinYxVeJHKR9/view?usp=share_link)
+<a href="mailto:anirudha.patil.dev@gmail.com"><img src="https://img.shields.io/badge/Email-anirudha.patil.dev%40gmail.com-blue" alt="Email"  /></a>
+  <a href="tel:+917350364321"><img src="https://img.shields.io/badge/Phone-7350364321-green" alt="Phone" h /></a>
+
+## 🤝 Connect with me and let's discuss how I can contribute to your team!
+
+<p align="left">  
+  <a href="https://linkedin.com/in/anirudha-patil-2a786b218/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://wa.me/917350364321" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
+  <a href="https://fb.com/anirudha.patil.505960" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://instagram.com/anirudhapatil321" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://hashnode.com/@anirudhapatil" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="40" /></a>
+    <a href="mailto:anirudha.patil.dev@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email" height="30" width="30" /></a>
+  <a href="tel:+917350364321"><img src="https://imageurl_for_phone.png" alt="Phone" height="30" width="30" /></a>
+
+</p>
 
 > "Write code, inspire, repeat."
 
+    
 
-<!-- image -->
 
-## <!-- <div width="100%"> <div width="100%"> <img src="https://avatars.githubusercontent.com/u/73242321?v=4"></div></div> -->
-
-<h2 align="left">Connect with me:</h2>
-
-<p align="left">
-<a href="https://linkedin.com/in/anirudha-patil-2a786b218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudha-patil-2a786b218/" height="30" width="40" /></a>
-<a href="https://wa.me/917350364321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/whatsapp.svg" alt="+91-7350364321" height="30" width="40" /></a>
-<a href="https://fb.com/anirudha.patil.505960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anirudha.patil.505960" height="30" width="40" /></a>
-<a href="https://instagram.com/anirudhapatil321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anirudhapatil321" height="30" width="40" /></a>
-<a href="https://hashnode.com/@anirudhapatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@anirudhapatil" height="30" width="40" /></a>
-<!-- updating hashnode logo to latest -->
 <!-- <a href="https://hashnode.com/@anirudhapatil" target="blank"><img align="center" src="https://www.svgrepo.com/svg/353859/hashnode-icon" alt="@anirudhapatil" height="30" width="40" /></a> -->
 <!-- <a href="https://auth.geeksforgeeks.org/user/aninp2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aninp2020" height="30" width="40" /></a> -->
 </p>
