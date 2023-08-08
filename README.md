@@ -78,7 +78,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain-wordmark.svg" width="100">
     </td>
     <td align='center' width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<!--         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /> -->
+        <img src="./githubDarkMode.jpg" alt="github-darkmode"/>
+    </td>
+    <td align='center' width="100">
+        <img src="./headless-ui-card.6c478fa0.png" alt="github-darkmode"/>
     </td>
 </tr>
 
